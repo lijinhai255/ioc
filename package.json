@@ -1,0 +1,15 @@
+{
+  "name": "my-ioc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ./index.ts"
+  },
+  "keywords": [],
+  "author": "lijinhai255 <976041476@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
