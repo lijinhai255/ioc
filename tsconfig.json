@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "lib": [
+            "ESNext",
+            "dom"
+        ],
+        "isolatedModules": true,
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+        "moduleResolution": "Node",
+        "noImplicitAny": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
